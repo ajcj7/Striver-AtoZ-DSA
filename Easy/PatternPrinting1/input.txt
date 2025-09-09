@@ -1,0 +1,17 @@
+# Pattern Printing 1 - Sample Test Cases
+# Each line represents a test case with input value N
+
+# Test Case 1: Basic pattern with 5 rows
+5
+
+# Test Case 2: Small pattern with 3 rows
+3
+
+# Test Case 3: Minimum case with 1 row
+1
+
+# Test Case 4: Medium pattern with 7 rows
+7
+
+# Test Case 5: Edge case with 10 rows
+10
