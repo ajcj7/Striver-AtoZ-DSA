@@ -1,0 +1,38 @@
+# Pattern Printing 1 - Expected Outputs
+# Outputs corresponding to test cases in input.txt
+
+# Test Case 1: N = 5
+*
+**
+***
+****
+*****
+
+# Test Case 2: N = 3
+*
+**
+***
+
+# Test Case 3: N = 1
+*
+
+# Test Case 4: N = 7
+*
+**
+***
+****
+*****
+******
+*******
+
+# Test Case 5: N = 10
+*
+**
+***
+****
+*****
+******
+*******
+********
+*********
+**********
